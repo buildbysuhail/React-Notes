@@ -50,7 +50,6 @@ Test:
 ## 2. Next.js Setup
 
     npx create-next-app@latest my-app
-    # Answer "Yes" to Tailwind CSS when prompted
 
 **Manual install:**
 
